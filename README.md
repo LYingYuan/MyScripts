@@ -1,2 +1,2 @@
-# MySscripts
+# MyScripts
 一些脚本
